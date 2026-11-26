@@ -1,0 +1,10 @@
+{
+  "description": "A central operating platform for NxtFi leadership to manage business execution, projects, finances, partnerships, regulatory readiness, risks, and governance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
